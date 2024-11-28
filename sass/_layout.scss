@@ -39,9 +39,10 @@
 .description {
   font-size: 1.4rem;
   background-color: #fff;
-  box-shadow: 0 2rem 5rem rgba(#171717, 0.5);
+  box-shadow: var(--new-shadow);
   flex: 0 0 60%;
   margin-right: 4.5rem;
+  padding:3rem;
 }
 
 .user-reviews {
