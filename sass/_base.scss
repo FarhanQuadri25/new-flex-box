@@ -29,6 +29,8 @@ Grey dark 3: #999
   --Grey-dark-2: #777;
   --Grey-dark-3: #999;
   --box-shadow: 0 2rem 6rem rgba(0, 0, 0, 0.3);
+  --line: 1px solid var(var(--Grey-light-1));
+  --shadow-light: 0 2rem 5rem rgba(#171717, 0.6);
 }
 
 *,
